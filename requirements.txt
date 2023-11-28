@@ -1,0 +1,37 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+langchain==0.0.184
+PyPDF2==3.0.1
+openai==0.27.6
+faiss-cpu==1.7.4
+altair==4
+tiktoken==0.3.1
+pytube
+whisper @ git+https://github.com/openai/whisper.git@8cf36f3508c9acd341a45eb2364239a3d81458b9
+pydub
+gtts
+pyttsx3
+eventlet
+googletrans==4.0.0-rc1
+
+# conda install -c conda-forge ffmpeg
+# git+https://github.com/openai/whisper.git
+
+
+pyAudioAnalysis
+hmmlearn
+eyed3
+imbalanced-learn
+
+
+
+# uncomment to use huggingface llms
+huggingface-hub==0.14.1
+
+# uncomment to use instructor embeddings
+InstructorEmbedding==1.0.1
+sentence-transformers==2.2.2
