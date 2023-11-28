@@ -35,6 +35,10 @@ conda install -c conda-forge ffmpeg
 ```
 
 
+```bash
+pip install google-generativeai
+sudo apt-get install portaudio19-dev```
+
 
 ## 6. Check the InfoWhisper
 ```bash
